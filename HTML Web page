@@ -1,1 +1,27 @@
+<html>
+    
+    <h1>Favorite things to do</h1>
+    <ul>
+        <li>Hunting</li>
+        <li>Fishing</li>
+        <li>Hiking</li>
+        <li>Outdoor Photography</li>
+    </ul>
+    <h1>Favorite places to eat</h1>
+    <ol>
+        <li><a href="http://bigskygrubtruck.com" target="_new">Big Sky Grub Shack</a></li>
+        <li><a href="http://www.victorsteakhouse.com" target="_new">Victor Steak House</a></li>
+        <li><a href="http://www.romeositaliankitchen.com" target="_new">Romeo's Italian</a></li>
+    </ol>
+
+    <h1>Favorite websites</h1>
+    <ol>
+        <li><a href="http://www.primitiverepublic.com" target="_new">Join the Republic</a></li>
+        <li><a href="professionaloutdoormediaassociation.org" target="_new">Go to POMA</a></li>
+        <li><a href="www.buglingbull.com" target="_new">Go to Rocky Mountain Hunting Calls</a></li>
+    </ol>
+
+   <p><a href="Page 2.html" target="_new">Page 2</a></p>
+   <p><a href="Page 3.html" target="_new">Page 3</a></p>
+    </html>
 
